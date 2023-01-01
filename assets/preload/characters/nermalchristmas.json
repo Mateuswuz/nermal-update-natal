@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-15,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-46,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-44,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nermal idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				94
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nermal left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nermal down pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				177
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nermal up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				93
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nermal right pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nermalchrima",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nermlchris2",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

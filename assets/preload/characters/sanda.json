@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-144
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "santa idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				245,
+				-73
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "santa left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "santa down pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				-24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "santa up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-127,
+				-206
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "santa right pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sandyclais",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "santa",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		-10,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
