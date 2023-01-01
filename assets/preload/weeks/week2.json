@@ -1,22 +1,50 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Naughty-List",
+			"santa",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Presents",
+			"boobs",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Mean ONe",
+			"garieldnew",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }
