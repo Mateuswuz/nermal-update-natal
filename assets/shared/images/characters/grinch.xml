@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grinch.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="garfield down pose0000" x="6" y="6" width="864" height="526" pivotX="-128.4" pivotY="-94"/>
+	<SubTexture name="garfield down pose0001" x="6" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0002" x="876" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0003" x="876" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0004" x="1746" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0005" x="1746" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0006" x="1746" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0007" x="1746" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0008" x="1746" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0009" x="1746" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0010" x="1746" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0011" x="1746" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0012" x="1746" y="6" width="864" height="526"/>
+	<SubTexture name="garfield down pose0013" x="1746" y="6" width="864" height="526"/>
+	<SubTexture name="garfield idle0000" x="2616" y="6" width="642" height="612" pivotX="23.8" pivotY="0"/>
+	<SubTexture name="garfield idle0001" x="2616" y="6" width="642" height="612"/>
+	<SubTexture name="garfield idle0002" x="3264" y="6" width="642" height="612"/>
+	<SubTexture name="garfield idle0003" x="3264" y="6" width="642" height="612"/>
+	<SubTexture name="garfield idle0004" x="6" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0005" x="6" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0006" x="654" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0007" x="654" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0008" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0009" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0010" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0011" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0012" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0013" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0014" x="1950" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0015" x="1950" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0016" x="2598" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0017" x="2598" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0018" x="3246" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0019" x="3246" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0020" x="6" y="1242" width="642" height="612"/>
+	<SubTexture name="garfield idle0021" x="6" y="1242" width="642" height="612"/>
+	<SubTexture name="garfield idle0022" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0023" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0024" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0025" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0026" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield idle0027" x="1302" y="624" width="642" height="612"/>
+	<SubTexture name="garfield left pose0000" x="654" y="1242" width="619" height="592" pivotX="-4.95" pivotY="-40"/>
+	<SubTexture name="garfield left pose0001" x="654" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0002" x="1279" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0003" x="1279" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0004" x="1904" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0005" x="1904" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0006" x="1904" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0007" x="1904" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0008" x="1904" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0009" x="1904" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0010" x="1904" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0011" x="1904" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0012" x="1904" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield left pose0013" x="1904" y="1242" width="619" height="592"/>
+	<SubTexture name="garfield right pose0000" x="2529" y="1242" width="703" height="579" pivotX="-157.65" pivotY="-40.65"/>
+	<SubTexture name="garfield right pose0001" x="2529" y="1242" width="703" height="579"/>
+	<SubTexture name="garfield right pose0002" x="3238" y="1242" width="703" height="579"/>
+	<SubTexture name="garfield right pose0003" x="3238" y="1242" width="703" height="579"/>
+	<SubTexture name="garfield right pose0004" x="6" y="1860" width="703" height="579"/>
+	<SubTexture name="garfield right pose0005" x="6" y="1860" width="703" height="579"/>
+	<SubTexture name="garfield right pose0006" x="6" y="1860" width="703" height="579"/>
+	<SubTexture name="garfield right pose0007" x="6" y="1860" width="703" height="579"/>
+	<SubTexture name="garfield right pose0008" x="6" y="1860" width="703" height="579"/>
+	<SubTexture name="garfield right pose0009" x="6" y="1860" width="703" height="579"/>
+	<SubTexture name="garfield right pose0010" x="6" y="1860" width="703" height="579"/>
+	<SubTexture name="garfield right pose0011" x="6" y="1860" width="703" height="579"/>
+	<SubTexture name="garfield right pose0012" x="6" y="1860" width="703" height="579"/>
+	<SubTexture name="garfield right pose0013" x="6" y="1860" width="703" height="579"/>
+	<SubTexture name="garfield up pose0000" x="715" y="1860" width="603" height="730" pivotX="-51.25" pivotY="93.9"/>
+	<SubTexture name="garfield up pose0001" x="715" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0002" x="1324" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0003" x="1324" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0004" x="1933" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0005" x="1933" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0006" x="1933" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0007" x="1933" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0008" x="1933" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0009" x="1933" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0010" x="1933" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0011" x="1933" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0012" x="1933" y="1860" width="603" height="730"/>
+	<SubTexture name="garfield up pose0013" x="1933" y="1860" width="603" height="730"/>
+</TextureAtlas>

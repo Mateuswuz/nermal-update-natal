@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sandyclais.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="santa down pose0000" x="6" y="6" width="374" height="602" pivotX="-91.9" pivotY="-69.8"/>
+	<SubTexture name="santa down pose0001" x="6" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0002" x="386" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0003" x="386" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0004" x="766" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0005" x="766" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0006" x="766" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0007" x="766" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0008" x="766" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0009" x="766" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0010" x="766" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0011" x="766" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0012" x="766" y="6" width="374" height="602"/>
+	<SubTexture name="santa down pose0013" x="766" y="6" width="374" height="602"/>
+	<SubTexture name="santa idle pose0000" x="1146" y="6" width="398" height="611" pivotX="2.8" pivotY="-54.15"/>
+	<SubTexture name="santa idle pose0001" x="1146" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0002" x="1550" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0003" x="1550" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0004" x="1954" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0005" x="1954" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0006" x="2358" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0007" x="2358" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0008" x="2762" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0009" x="2762" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0010" x="3166" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0011" x="3166" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0012" x="3166" y="6" width="398" height="611"/>
+	<SubTexture name="santa idle pose0013" x="3166" y="6" width="398" height="611"/>
+	<SubTexture name="santa left pose0000" x="6" y="623" width="670" height="668" pivotX="267.1" pivotY="24.15"/>
+	<SubTexture name="santa left pose0001" x="6" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0002" x="682" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0003" x="682" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0004" x="1358" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0005" x="1358" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0006" x="1358" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0007" x="1358" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0008" x="1358" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0009" x="1358" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0010" x="1358" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0011" x="1358" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0012" x="1358" y="623" width="670" height="668"/>
+	<SubTexture name="santa left pose0013" x="1358" y="623" width="670" height="668"/>
+	<SubTexture name="santa right pose0000" x="2034" y="623" width="611" height="547" pivotX="-110.65" pivotY="-116.25"/>
+	<SubTexture name="santa right pose0001" x="2034" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0002" x="2651" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0003" x="2651" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0004" x="3268" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0005" x="3268" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0006" x="3268" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0007" x="3268" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0008" x="3268" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0009" x="3268" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0010" x="3268" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0011" x="3268" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0012" x="3268" y="623" width="611" height="547"/>
+	<SubTexture name="santa right pose0013" x="3268" y="623" width="611" height="547"/>
+	<SubTexture name="santa up pose0000" x="6" y="1297" width="294" height="719" pivotX="-70.25" pivotY="75.5"/>
+	<SubTexture name="santa up pose0001" x="6" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0002" x="306" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0003" x="306" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0004" x="606" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0005" x="606" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0006" x="606" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0007" x="606" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0008" x="606" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0009" x="606" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0010" x="606" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0011" x="606" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0012" x="606" y="1297" width="294" height="719"/>
+	<SubTexture name="santa up pose0013" x="606" y="1297" width="294" height="719"/>
+</TextureAtlas>
